@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d773126-a4a9-4f6a-800c-00e36bf84ebc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1alSEb4Z0BHqnFcGQq3MxCRWbPK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JUnit4/hamcrest-core-1.3.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TravelTest">
+    <configuration name="TravelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs2321.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs2321" />
+      <option name="MAIN_CLASS_NAME" value="cs2321.TravelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelTest.testBFSRoute1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs2321.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs2321" />
+      <option name="MAIN_CLASS_NAME" value="cs2321.TravelTest" />
+      <option name="METHOD_NAME" value="testBFSRoute1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelTest.testDFSRoute1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs2321.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs2321" />
+      <option name="MAIN_CLASS_NAME" value="cs2321.TravelTest" />
+      <option name="METHOD_NAME" value="testDFSRoute1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelTest.testDFSRoute2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs2321.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs2321" />
+      <option name="MAIN_CLASS_NAME" value="cs2321.TravelTest" />
+      <option name="METHOD_NAME" value="testDFSRoute2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelTest.testDijkstraRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Graph_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs2321.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs2321" />
+      <option name="MAIN_CLASS_NAME" value="cs2321.TravelTest" />
+      <option name="METHOD_NAME" value="testDijkstraRoute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TravelTest" />
+        <item itemvalue="JUnit.TravelTest.testDijkstraRoute" />
+        <item itemvalue="JUnit.TravelTest.testDFSRoute2" />
+        <item itemvalue="JUnit.TravelTest.testBFSRoute1" />
+        <item itemvalue="JUnit.TravelTest.testDFSRoute1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d773126-a4a9-4f6a-800c-00e36bf84ebc" name="Default Changelist" comment="" />
+      <created>1587308576817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587308576817</updated>
+      <workItem from="1587308582219" duration="1422000" />
+      <workItem from="1587410203242" duration="17651000" />
+      <workItem from="1587494768838" duration="4118000" />
+      <workItem from="1587514842130" duration="5038000" />
+      <workItem from="1587569352649" duration="4590000" />
+      <workItem from="1587589601690" duration="602000" />
+      <workItem from="1587656231064" duration="154000" />
+      <workItem from="1587679842900" duration="2563000" />
+      <workItem from="1587685059370" duration="41000" />
+      <workItem from="1587698895967" duration="1440000" />
+      <workItem from="1587701986576" duration="110000" />
+      <workItem from="1588096811278" duration="95000" />
+      <workItem from="1588726053117" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="T.graph" />
+        <watch expression="T.graph" language="JAVA" />
+        <watch expression="T.graph" language="JAVA" />
+        <watch expression="((cs2321.UnorderedMap[])((HashMap)((InnerVertex)v).outgoing).table)[3]" custom="cs2321.HashMap,cs2321.UnorderedMap[],cs2321.AdjListGraph.InnerVertex" />
+        <watch expression="cloud.table[9].table.data[0]" />
+        <watch expression="d.table[9]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="659edcef-4547-4396-b66f-f15edffa8952" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WuFxtuFet3M7kUqsle2HItuZCS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/List" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.28456914" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayListIface.Test34">
+    <configuration name="ArrayListIface.Test34" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListIface" />
+      <option name="METHOD_NAME" value="Test34" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularArrayIface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircularArrayIface" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeIface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeIface" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedListIterator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionIface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PositionIface" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayListIface.Test34" />
+        <item itemvalue="JUnit.CircularArrayIface" />
+        <item itemvalue="JUnit.DoublyLinkedListIterator" />
+        <item itemvalue="JUnit.DequeIface" />
+        <item itemvalue="JUnit.PositionIface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659edcef-4547-4396-b66f-f15edffa8952" name="Default Changelist" comment="" />
+      <created>1579991823015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579991823015</updated>
+      <workItem from="1579991824382" duration="602000" />
+      <workItem from="1580054539276" duration="20159000" />
+      <workItem from="1580172557271" duration="6000" />
+      <workItem from="1580254549024" duration="1819000" />
+      <workItem from="1580256389415" duration="581000" />
+      <workItem from="1580269832139" duration="2878000" />
+      <workItem from="1580330669709" duration="4725000" />
+      <workItem from="1580343568496" duration="4016000" />
+      <workItem from="1580348204280" duration="2252000" />
+      <workItem from="1580396168958" duration="1134000" />
+      <workItem from="1580413873875" duration="11512000" />
+      <workItem from="1580506018867" duration="1547000" />
+      <workItem from="1580693547137" duration="15000" />
+      <workItem from="1580833640093" duration="151000" />
+      <workItem from="1581005939841" duration="3000" />
+      <workItem from="1581007733628" duration="38000" />
+      <workItem from="1581012539172" duration="8000" />
+      <workItem from="1581172704283" duration="13375000" />
+      <workItem from="1581380815551" duration="227000" />
+      <workItem from="1582584230475" duration="238000" />
+      <workItem from="1585628308789" duration="115000" />
+      <workItem from="1585628458974" duration="37000" />
+      <workItem from="1585674221934" duration="796000" />
+      <workItem from="1587501915000" duration="1259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
